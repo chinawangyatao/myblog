@@ -1,7 +1,9 @@
 {
-  "name": "wangxucheng_blog",
+  "name": "myblog",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://chinawangyatao.github.io/myblog/",
+  "githubusername": "chinawangyatao",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
