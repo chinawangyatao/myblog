@@ -89,11 +89,19 @@ const config: Config = {
                             label: 'Golang',
                             docId: 'golang/index',
                         },
+                        {
+                            type: 'doc',
+                            label: 'React',
+                            docId: 'react/入门/入门',
+                        },
                     ],
                 },
                 // {type: 'doc', label: '小案例', position: 'left',docId: 'case/case'},
                 {to: '/blog', label: 'Blog', position: 'left'},
-                {to: '/case', label: '小案例', position: 'left'},
+                {type:'dropdown', label: '我的项目', position: 'left',items: [
+                    // 项目
+
+                    ]},
                 {
                     href: 'https://github.com/chinawangyatao',
                     label: 'GitHub',
