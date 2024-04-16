@@ -132,7 +132,7 @@ export default App
 
 - 语法 &#x20;
 
-  on + 事件名称 = { 事件处理程序 } ，比如：`<div onClick={ onClick }></div>`
+  ``on + 事件名称 = { 事件处理程序 } ``，比如：```<div onClick={ onClick }></div>```
 - 注意点 &#x20;
 
   react事件采用驼峰命名法，比如：onMouseEnter、onFocus

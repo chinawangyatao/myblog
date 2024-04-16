@@ -23,7 +23,7 @@ sidebar_position: 2
 1. 采用类似于HTML的语法，降低学习成本，会HTML就会JSX
 2. 充分利用JS自身的可编程能力创建HTML结构
 
-注意：JSX 并不是标准的 JS 语法，是 JS 的语法扩展，浏览器默认是不识别的，脚手架中内置的 [@babel/plugin-transform-react-jsx](@babel/plugin-transform-react-jsx "@babel/plugin-transform-react-jsx") 包，用来解析该语法
+注意：JSX 并不是标准的 JS 语法，是 JS 的语法扩展，浏览器默认是不识别的，脚手架中内置的 `@babel/plugin-transform-react-jsx` 包，用来解析该语法
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/274425/1654489661908-d354840e-78b8-43ad-a882-8129742c794e.png)
 
