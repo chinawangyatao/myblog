@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyblog=self.webpackChunkmyblog||[]).push([[9365],{3227:(e,s,c)=>{c.r(s),c.d(s,{default:()=>n});var l=c(6540),r=c(3844),m=c(4848);const n=(0,l.memo)((()=>(0,m.jsx)(m.Fragment,{children:(0,m.jsx)(r.A,{children:"myProject"})})))}}]);
